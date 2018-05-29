@@ -7,7 +7,7 @@ package utfpr.ct.dainf.if62c.pratica;
 
 /**
  *
- * @author João Paulo
+ * @author rafaelbisol
  */
 public class SomaMatrizesIncompativeisException extends MatrizesIncompativeisException {
     private final Matriz m1;
